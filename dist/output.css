@@ -2,9 +2,6 @@
 .tooltip {
   position: relative;
   display: inline-block;
-  font-size: 18px;
-  font-weight: 600;
-  color: rgb(29 29 31 / 0.9);
 }
 
 /* Tooltip text */
@@ -16,6 +13,8 @@
   text-align: center;
   padding: 5px 0;
   border-radius: 6px;
+  font-size: 18px;
+  font-weight: 600;
  
   /* Position the tooltip text */
   position: absolute;
