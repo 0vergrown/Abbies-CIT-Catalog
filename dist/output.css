@@ -2,6 +2,9 @@
 .tooltip {
   position: relative;
   display: inline-block;
+  font-size: 18px;
+  font-weight: 600;
+  color: rgb(29 29 31 / 0.9);
 }
 
 /* Tooltip text */
